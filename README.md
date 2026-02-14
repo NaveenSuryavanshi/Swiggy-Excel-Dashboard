@@ -1,4 +1,7 @@
 **Food Delivery Sales & Performance Dashboard (Power BI)**
+
+
+
 _**📌 Project Overview**_
 This project is an interactive Power BI dashboard designed to analyze sales performance, customer behavior, restaurant trends, and regional insights for a food delivery platform.
 The dashboard transforms raw transactional data into meaningful business intelligence to support strategic decision-making.
